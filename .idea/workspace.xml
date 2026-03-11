@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1510c1dc-97e7-49f8-8d59-a12f4b1d3877" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/medilab/medilabapp/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/medilab/medilabapp/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medilab/medilabapp/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/medilab/medilabapp/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medilab/medilabapp/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/medilab/medilabapp/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medilab/medilabapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/medilab/medilabapp/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medilab/medilabapp/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/medilab/medilabapp/templates/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medilab/medilabapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/medilab/medilabapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medilab/medilabapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/medilab/medilabapp/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/medilab" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3An7mUwmdOz4oT7TAJ6DjCfLBgO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/emobili/Desktop/Jacob MH/Group Project"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1510c1dc-97e7-49f8-8d59-a12f4b1d3877" name="Changes" comment="" />
+      <created>1773216641401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773216641401</updated>
+    </task>
+    <servers />
+  </component>
+</project>
